@@ -1,0 +1,9 @@
+{
+  "name": "oponent",
+  "version": "0.1.0",
+  "description": "Oponentura závěru nebo rozhodnutí: nezávislý Claude bez historie debaty ho má vyvrátit (byznys, zdraví, obecně).",
+  "author": {
+    "name": "Ondra N"
+  },
+  "license": "MIT"
+}

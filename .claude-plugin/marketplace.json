@@ -1,0 +1,14 @@
+{
+  "name": "oponent-skill",
+  "description": "Skill pro Claude: ať AI vyvrátí vlastní závěr, než podle něj rozhodnete.",
+  "owner": {
+    "name": "Ondra N"
+  },
+  "plugins": [
+    {
+      "name": "oponent",
+      "source": "./",
+      "description": "Oponentura závěru nebo rozhodnutí: nezávislý Claude bez historie debaty ho má vyvrátit (byznys, zdraví, obecně)."
+    }
+  ]
+}
